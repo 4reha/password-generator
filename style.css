@@ -1,0 +1,89 @@
+body	{
+	background-color: #1F2937;
+}
+
+h1	{
+	position: absolute;
+	left: 52px;
+	top: 115px;
+	
+	font-family: 'Karla', sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	line-height: 40px;
+	color: #FFFFFF;
+	transition: all 0.5s;
+}
+
+p {
+	position: absolute;
+	left: 52px;
+	top: 205px;
+	
+	font-family: 'inter', sans-serif;
+	font-weight: 400;
+	font-size: 20px;
+	color: #D5D4D8;
+	transition: all 0.5s;
+}
+
+#msg {
+	position: absolute;
+	left: 285px;
+	top: 395px;
+	
+	font-family: 'inter', sans-serif;
+	font-weight: 400;
+	font-size: 14px;
+	color: #10B981;
+	transition: all 0.5s;
+}
+
+#gen-btn	{
+	position: absolute;
+	left: 52px;
+	top: 284px;
+    width: 191px;
+	height: 42px;
+    background: #10B981;
+    cursor: pointer;
+    border: none;
+    border-radius: 6px;
+	
+    font-family: Inter, sans-serif;
+    color: white;
+    font-weight: 500;
+	font-size: 16px;
+	transition: all 0.5s;
+}
+
+
+
+hr {
+	position: absolute;
+	width: 446px;
+	height: 0px;
+	left: 52px;
+	top: 361px;
+	border: 1px solid #2F3E53;
+	transition: all 0.5s;
+}
+
+#pass	{
+	position: absolute;
+	width: 211px;
+	height: 39px;
+	left: 52px;
+	top: 396px;
+	background: #273549;
+	border: none;
+	border-radius: 6px;
+	
+	
+	font-family: Inter, sans-serif;
+	color: white;
+	font-weight: 500;
+	font-size: 16px;
+	transition: all 0.5s;
+}
